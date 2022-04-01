@@ -1,2 +1,2 @@
-# MovieStack
+# ITMOvies
 Movies tracker app 
